@@ -1,3 +1,3 @@
 # galaxy_evolution
 
-project in my 2017 summer intern at ETH
+project of my 2017 summer intern at ETH
